@@ -31,3 +31,4 @@ checkButton.addEventListener("click", () => {
 
     document.getElementById("count").innerHTML = `${counter}`
 })
+// console.log(object);
